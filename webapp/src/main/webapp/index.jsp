@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
+    <label for="mobile"><b>Enter mobile</b></label>
+    <input type="text" placeholder="OTRA VEZ !!!!!" name="mobile" id="mobile" required>
+    <br>
+
     <label for="mobile"><b>ENTER MOBILE AGAIN PLEASE!!!!!:</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
